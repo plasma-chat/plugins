@@ -1,2 +1,5 @@
 # Hide cache
 __pycache__/
+
+# Hide config files
+*.json
